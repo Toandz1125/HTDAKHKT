@@ -1,0 +1,12 @@
+----- Lượt chơi mới -----
+Từ bí mật: apple
+Kết quả: Thắng
+Thời gian chơi: 23.42 giây
+Số lượt sai còn lại: 3
+
+----- Lượt chơi mới -----
+Từ bí mật: river
+Kết quả: Thua
+Thời gian chơi: 11.07 giây
+Số lượt sai còn lại: 0
+
